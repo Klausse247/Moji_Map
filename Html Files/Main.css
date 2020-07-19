@@ -1,0 +1,14 @@
+css file
+body {
+  background-color: lightblue;
+}
+
+aside {
+  width: 40%;
+  padding: 15px;
+  margin-left: 15px;
+  margin-right: 5px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
